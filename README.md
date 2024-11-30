@@ -52,7 +52,7 @@
 
 ## 💼 **Featured Projects**
 
-### **🌐 Dream Nest**  
+### **🌐 Nestly**  
 - 🏡 A full-stack real estate platform with **price prediction**.  
 - 🔗 [Explore Project](https://github.com/chandhan12/Nestly-4th-sem-project)  
 <div align="center">
