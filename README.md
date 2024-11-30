@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="800" height="400"/>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="800" height="400"/>
 </div>
 
 # 🌟 Welcome to My GitHub Profile!  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=435&lines=Hi+there!+👋+I'm+Chandhan!;A+Passionate+Full-Stack+Developer;MERN+Stack+Enthusiast+🚀;Always+Learning+and+Building!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&width=435&lines=Hi+there!+👋+I'm+Chandhan!;A+Passionate+Full-Stack+Developer;MERN+Stack+Enthusiast+🚀;Always+Learning+and+Building!" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 - 📈 **Always pushing boundaries to learn new technologies**  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
 </div>
 
 ---
@@ -52,16 +52,16 @@
 
 ## 💼 **Featured Projects**
 
-### **🌐 Nestly**  
-- 🏡 A full-stack real estate platform with **price prediction**.  
-- 🔗 [Explore Project](https://github.com/chandhan12/Nestly-4th-sem-project)  
+### **🌐 Novapay**  
+- 💳 A Paytm-like application enabling seamless online transactions.  
+- 🔗 [Explore Project](https://github.com/chandhan12/Novapay)  
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
 </div>
 
-### **🌱 AgriConnect**  
-- 🌾 A platform connecting farmers to labs and machinery rentals.  
-- 🔗 [Explore Project](https://github.com/chandhan12/AgriConnect)  
+### **🌐 Nestly**  
+- 🏡 A full-stack real estate platform with **price prediction**.  
+- 🔗 [Explore Project](https://github.com/chandhan12/Nestly-4th-sem-project)  
 
 ---
 
@@ -78,7 +78,7 @@
 ## 🌱 **What I’m Learning**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=7FFFD4&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Next.js+🔥;TypeScript+🚀;AWS+☁️;Docker+🐳;PostgreSQL+🔧" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=32CD32&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Next.js+🔥;TypeScript+🚀;AWS+☁️;Docker+🐳;PostgreSQL+🔧" />
 </p>
 
 ---
@@ -91,7 +91,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" width="300"/>
 </div>
 
 ---
