@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
 </div>
 
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 **About Me** <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" align="center"/>
+## 🚀 **About Me** <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60" align="center"/>
 
 
 
@@ -65,7 +65,7 @@
 
  
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </div>
 
 ### **🌐 Novapay**  
@@ -93,7 +93,7 @@
 
 ---
 
-## 📬 **Let's Connect** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50" align="center"/>
+## 📬 **Let's Connect** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60" align="center"/>
 
 <p align="center">
   <a href="https://github.com/chandhan12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
