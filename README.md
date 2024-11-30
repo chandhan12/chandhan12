@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="800" height="400"/>
 </div>
 
 # 🌟 Welcome to My GitHub Profile!  
@@ -18,16 +18,35 @@
 - 📈 **Always pushing boundaries to learn new technologies**  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJmZmQzNGZhZjJlZjU1MTAzNDM1NmViYjA2ZDk3NTQyMzVhZGEzOCZlcD12MV9naWZzX3NlYXJjaCZjdD1z/oFvFzFK2rtDAFNExI3/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/oFvFzFK2rtDAFNExI3/giphy.gif" width="400"/>
 </div>
 
 ---
 
 ## 🛠️ **My Skillset**
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,python,docker,figma,postman" />
-</div>
+### Languages:
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) **JavaScript**  
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) **Python**  
+
+### Frontend:
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) **React.js**  
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff) **HTML**  
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff) **CSS**  
+- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff) **Tailwind CSS**  
+
+### Backend:
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff) **Node.js**  
+- ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff) **Express.js**  
+
+### Databases:
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff) **MongoDB**  
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) **MySQL**  
+
+### Tools & Platforms:
+- ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=fff) **Visual Studio Code**  
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff) **Postman**  
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff) **Figma**  
 
 ---
 
