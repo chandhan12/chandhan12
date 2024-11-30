@@ -1,75 +1,84 @@
-# 👋 Hi, I'm Chandhan!  
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
 
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+# 🌟 Welcome to My GitHub Profile!  
 
----
-
-🌟 **Aspiring Full-Stack Developer | MERN Enthusiast | Problem Solver**  
-
-🎓 **MCA Graduate | AIMS Institute**  
-💻 **Passionate about creating responsive and dynamic applications**  
-🚀 **Always exploring new technologies and improving skills**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=435&lines=Hi+there!+👋+I'm+Chandhan!;A+Passionate+Full-Stack+Developer;MERN+Stack+Enthusiast+🚀;Always+Learning+and+Building!" />
+</p>
 
 ---
 
-## 🛠️ **Technical Skills**  
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+## 🚀 **About Me**
 
-**Frameworks and Libraries:**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)
+- 🎓 **MCA Graduate | AIMS Institute**  
+- 💻 **Full-stack developer creating scalable applications**  
+- 🌟 **MERN stack enthusiast with a love for problem-solving**  
+- 📈 **Always pushing boundaries to learn new technologies**  
 
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-
-**Tools:**  
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=fff)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJmZmQzNGZhZjJlZjU1MTAzNDM1NmViYjA2ZDk3NTQyMzVhZGEzOCZlcD12MV9naWZzX3NlYXJjaCZjdD1z/oFvFzFK2rtDAFNExI3/giphy.gif" width="400"/>
+</div>
 
 ---
 
-## 💼 **Projects**  
+## 🛠️ **My Skillset**
 
-### **1. Dream Nest**  
-📌 A full-stack real estate application with price prediction.  
-🔗 [View Project](https://github.com/chandhan12/Nestly-4th-sem-project)  
-![Dream Nest GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
-### **2. AgriConnect**  
-📌 A platform connecting farmers with soil testing labs and rental services.  
-🔗 [View Project](https://github.com/chandhan12/AgriConnect)  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,python,docker,figma,postman" />
+</div>
 
 ---
 
-## 📈 **Stats**
+## 💼 **Featured Projects**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chandhan12&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandhan12&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandhan12&layout=compact&theme=tokyonight&hide_border=true)
+### **🌐 Dream Nest**  
+- 🏡 A full-stack real estate platform with **price prediction**.  
+- 🔗 [Explore Project](https://github.com/chandhan12/Nestly-4th-sem-project)  
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
+</div>
 
----
-
-## 🌱 **What I’m Learning**  
-
-- Next.js  
-- TypeScript  
-- Basic AWS  
-- Docker  
-
-![Coding GIF](https://media.giphy.com/media/3o6ZsYm5LqxBUdFhdi/giphy.gif)
+### **🌱 AgriConnect**  
+- 🌾 A platform connecting farmers to labs and machinery rentals.  
+- 🔗 [Explore Project](https://github.com/chandhan12/AgriConnect)  
 
 ---
 
-## 🤝 **Connect With Me**
+## 📊 **GitHub Stats**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/chandhan12)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff)](https://leetcode.com/u/Chandhan1-/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandhan12&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandhan12&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chandhan12&theme=radical&hide_border=true" height="150" />
+</div>
 
 ---
 
-✨ *“Keep learning, keep coding, and keep building!”*
+## 🌱 **What I’m Learning**
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=7FFFD4&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Next.js+🔥;TypeScript+🚀;AWS+☁️;Docker+🐳;PostgreSQL+🔧" />
+</p>
+
+---
+
+## 📬 **Let's Connect**
+
+<p align="center">
+  <a href="https://github.com/chandhan12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Chandhan1-/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+</div>
+
+---
+
+✨ *“Keep pushing the limits, stay curious, and code with passion!”*
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
+</div>
