@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="800" height="400"/>
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="800" height="400"/>
 </div>
 
 # 🌟 Welcome to My GitHub Profile!  
@@ -18,7 +18,7 @@
 - 📈 **Always pushing boundaries to learn new technologies**  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/oFvFzFK2rtDAFNExI3/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="400"/>
 </div>
 
 ---
