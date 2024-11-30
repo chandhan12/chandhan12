@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 **About Me** <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" align="center"/>
+## 🚀 **About Me** <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" align="center"/>
 
 
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ **My Skillset** 
+## 🛠️ **My Skillset**  <img src="https://cdn.discordapp.com/emojis/778638806877732894.gif" width="30" align="center"/> 
 
 ### Languages:
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) **JavaScript**  
@@ -56,7 +56,7 @@
 
 ---
 
-## 💼 **Featured Projects** <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40" align="center"/>
+## 💼 **Featured Projects** <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40" align="center"/>
 
 
 ### **🌐 Nestly**  
@@ -74,7 +74,7 @@
 
 ---
 
-## 📊 **GitHub Stats** 
+## 📊 **GitHub Stats** <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40" align="center"/> 
 
 
 <div align="center">
@@ -93,7 +93,7 @@
 
 ---
 
-## 📬 **Let's Connect** <img src="https://media.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif" width="40" align="center"/>
+## 📬 **Let's Connect** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50" align="center"/>
 
 <p align="center">
   <a href="https://github.com/chandhan12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
