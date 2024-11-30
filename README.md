@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="800" height="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
+
+
 
 # 🌟 Welcome to My GitHub Profile!  
 
@@ -10,7 +12,11 @@
 
 ---
 
-## 🚀 **About Me**
+## 🚀 **About Me** <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" align="center"/>
+
+
+
+
 
 - 🎓 **MCA Graduate | AIMS Institute**  
 - 💻 **Full-stack developer creating scalable applications**  
@@ -23,7 +29,7 @@
 
 ---
 
-## 🛠️ **My Skillset**
+## 🛠️ **My Skillset** 
 
 ### Languages:
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) **JavaScript**  
@@ -50,22 +56,26 @@
 
 ---
 
-## 💼 **Featured Projects**
+## 💼 **Featured Projects** <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40" align="center"/>
 
-### **🌐 Novapay**  
-- 💳 A Paytm-like application enabling seamless online transactions.  
-- 🔗 [Explore Project](https://github.com/chandhan12/Novapay)  
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
-</div>
 
 ### **🌐 Nestly**  
 - 🏡 A full-stack real estate platform with **price prediction**.  
 - 🔗 [Explore Project](https://github.com/chandhan12/Nestly-4th-sem-project)  
 
+ 
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
+</div>
+
+### **🌐 Novapay**  
+- 💳 A Paytm-like application enabling seamless online transactions.  
+- 🔗 [Explore Project](https://github.com/chandhan12/Novapay) 
+
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Stats** 
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chandhan12&show_icons=true&theme=radical" height="150" />
@@ -75,15 +85,15 @@
 
 ---
 
-## 🌱 **What I’m Learning**
+## 🌱 **What I’m Learning** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" align="center"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=32CD32&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Next.js+🔥;TypeScript+🚀;AWS+☁️;Docker+🐳;PostgreSQL+🔧" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=32CD32&size=22&pause=100&center=true&vCenter=true&width=500&lines=Next.js+🔥;TypeScript+🚀;AWS+☁️;Docker+🐳;PostgreSQL+🔧" />
 </p>
 
 ---
 
-## 📬 **Let's Connect**
+## 📬 **Let's Connect** <img src="https://media.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif" width="40" align="center"/>
 
 <p align="center">
   <a href="https://github.com/chandhan12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
