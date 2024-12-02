@@ -32,7 +32,8 @@
 ## 🛠️ **My Skillset**  <img src="https://cdn.discordapp.com/emojis/778638806877732894.gif" width="30" align="center"/> 
 
 ### Languages:
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) **JavaScript**  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) **JavaScript**
+-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) **TypeScript** 
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) **Python**  
 
 ### Frontend:
