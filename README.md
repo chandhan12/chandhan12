@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
 </div>
 
-
-
 # 🌟 Welcome to My GitHub Profile!  
 
 <p align="center">
@@ -13,10 +11,6 @@
 ---
 
 ## 🚀 **About Me** <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60" align="center"/>
-
-
-
-
 
 - 🎓 **MCA Graduate | AIMS Institute**  
 - 💻 **Full-stack developer creating scalable applications**  
@@ -32,8 +26,8 @@
 ## 🛠️ **My Skillset**  <img src="https://cdn.discordapp.com/emojis/778638806877732894.gif" width="30" align="center"/> 
 
 ### Languages:
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) **JavaScript**
--  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) **TypeScript** 
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) **JavaScript**  
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) **TypeScript**  
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) **Python**  
 
 ### Frontend:
@@ -59,7 +53,6 @@
 
 ## 💼 **Featured Projects** <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40" align="center"/>
 
-
 ### **🌐 Nestly**  
 - 🏡 A full-stack real estate platform with **price prediction**.  
 - 🔗 [Explore Project](https://github.com/chandhan12/Nestly-4th-sem-project)  
@@ -77,7 +70,6 @@
 
 ## 📊 **GitHub Stats** <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40" align="center"/> 
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chandhan12&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandhan12&layout=compact&theme=radical" height="150" />
@@ -89,7 +81,7 @@
 ## 🌱 **What I’m Learning** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" align="center"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=32CD32&size=22&pause=100&center=true&vCenter=true&width=500&lines=Next.js+🔥;TypeScript+🚀;AWS+☁️;Docker+🐳;PostgreSQL+🔧" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=32CD32&size=22&pause=100&center=true&vCenter=true&width=500&lines=Next.js+🔥;AWS+☁️;Docker+🐳;PostgreSQL+🔧" />
 </p>
 
 ---
