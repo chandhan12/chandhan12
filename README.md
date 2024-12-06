@@ -5,7 +5,7 @@
 # 🌟 Welcome to My GitHub Profile!  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&width=435&lines=Hi+there!+👋+I'm+Chandhan!;A+Passionate+Full-Stack+Developer;MERN+Stack+Enthusiast+🚀;Always+Learning+and+Building!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&width=435&lines=Hi+there!+👋+I'm+Chandhan!;A+Passionate+Full-Stack+Developer;Always+Learning+and+Building!" />
 </p>
 
 ---
