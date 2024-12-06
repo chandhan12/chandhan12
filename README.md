@@ -26,28 +26,28 @@
 ## 🛠️ **My Skillset**  <img src="https://cdn.discordapp.com/emojis/778638806877732894.gif" width="30" align="center"/> 
 
 ### Languages:
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) **JavaScript**  
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) **TypeScript**  
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) **Python**  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)  
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)  
 
 ### Frontend:
-- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) **React.js**  
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff) **HTML**  
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff) **CSS**  
-- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff) **Tailwind CSS**  
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)  
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff)  
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)  
+- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)  
 
 ### Backend:
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff) **Node.js**  
-- ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff) **Express.js**  
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)  
+- ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff)  
 
 ### Databases:
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff) **MongoDB**  
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) **MySQL**  
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)  
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)  
 
 ### Tools & Platforms:
-- ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=fff) **Visual Studio Code**  
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff) **Postman**  
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff) **Figma**  
+- ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=fff)  
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)  
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)  
 
 ---
 
