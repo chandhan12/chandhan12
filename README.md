@@ -96,9 +96,7 @@
 
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" width="300"/>
-</div>
+
 
 ---
 
