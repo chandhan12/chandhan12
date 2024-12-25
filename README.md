@@ -14,7 +14,7 @@
 
 - 🎓 **MCA Graduate | AIMS Institute**  
 - 💻 **Full-stack developer creating scalable applications**  
-- 🌟 **MERN stack enthusiast with a love for problem-solving**  
+- 🌟 **NextJs enthusiast with a love for problem-solving**  
 - 📈 **Always pushing boundaries to learn new technologies**  
 
 <div align="center">
