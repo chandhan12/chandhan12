@@ -81,7 +81,7 @@
 
 ---
 
-## 📬 **Let's Connect**  
+## 📬 **Let's Connect**  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60" align="center"/>
 
 <p align="center">
   <a href="https://github.com/chandhan12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
