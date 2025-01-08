@@ -6,14 +6,15 @@
 
 ---
 
-## 🚀 **About Me**
+## 🚀 **About Me** <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60" align="center"/>
+
 - 💻 **Full-Stack MERN Developer**  
 - 🌟 Passionate about creating scalable, user-centric applications.  
 - 📈 Always learning and implementing new technologies.  
 
 ---
 
-## 🛠️ **Skills**
+## 🛠️ **Skills** <img src="https://cdn.discordapp.com/emojis/778638806877732894.gif" width="30" align="center"/>
 
 ### Languages  
 <p>
