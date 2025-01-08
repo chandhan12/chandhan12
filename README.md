@@ -66,7 +66,7 @@
 
 ### **🌐 Brain Vault**  
 - 📚 Store important links with tags for easy retrieval.  
-- 🔗 [Explore Project](https://github.com/chandhan12/Second-Brain)  
+- 🔗 [Explore Project]((https://github.com/chandhan12/BrainVault))  
 
 ---
 
