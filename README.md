@@ -52,7 +52,7 @@
 <p>
   🛠️ VS Code &nbsp;&nbsp;
   🧪 Postman &nbsp;&nbsp;
-  🎨 Figma &nbsp;&nbsp;
+ 
   📦 Docker &nbsp;&nbsp;
   ☁️ AWS
 </p>
